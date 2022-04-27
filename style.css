@@ -1,0 +1,80 @@
+.container{
+    display: flex;
+    /* display: block; */
+    padding-top: 20px;
+
+}
+.card1{
+    margin-left: 70px;
+    margin-right: 0px;
+    border: 2px solid rgb(120, 145, 13);
+    padding: 18px;
+    border-radius: 10px;
+}
+
+
+.border_outline{
+    width: 100%;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-top: 10px;
+    
+}
+
+.card-text{
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+.card-title{
+    font-size: 25px;
+}
+
+.navbar-nav a{
+    font-family: 'Baloo Tamma 2', cursive;
+    font-size: 1.1rem;
+    font-weight: 800;
+}
+
+.carousel,  .slide h2{
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+.container h5{
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+.border_outline h2{
+    font-family: 'Satisfy', cursive;
+}
+
+.bucket{
+    display: flex;
+    padding-top: 20px;
+}
+
+.container2{
+    padding-left: 300px;
+
+}
+
+
+body {
+    background-image: url('Images/bg7.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100% 100%;
+    
+  }
+
+  p, h2, a, h5{
+      color: ivory;
+  }
+
+  footer{
+      background-color: white;
+  }
+
+  .ms-3 img{
+      margin-right: 50px;
+  }
